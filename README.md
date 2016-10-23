@@ -64,3 +64,4 @@ Note for OS X: Tested with node 4.6.0 and npm 3.10.7. npm 3.10.8 has a bug that 
 More detailed information on the DreamFactory REST API is available [here](http://wiki.dreamfactory.com/DreamFactory/API).
 
 The live API documentation included in the admin console is a great way to learn how the DreamFactory REST API works.
+"# ionic2-sdk" 
